@@ -1,1 +1,1 @@
-# goodStuffBot
+# YourHappyNoteBot
